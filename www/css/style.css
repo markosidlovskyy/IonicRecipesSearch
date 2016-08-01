@@ -1,0 +1,19 @@
+.thumb {
+    height: 80px;
+}/* Empty. Add your own CSS if you like */
+
+.list_title{
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+    
+}
+
+.description{
+    margin-left: 10px;
+}
